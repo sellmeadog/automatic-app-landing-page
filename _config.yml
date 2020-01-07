@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Complete Scryfall Database
-    description                           : The complete Scryfall database, always up-to-date, available locally on your device. Never miss a spoiled card, ban and restricted or errata update.
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : Card Previews
-    description                           : Spoiled cards are pushed directly to your phone. See what has been previewed every time you open the app.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Scryfall Database
+    description                           : The complete Scryfall database, always up-to-date, is available locally on your device.
+    fontawesome_icon_name                 : wizards-of-the-coast
 
-  - title                                 : # Video Support
-    description                           : # Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : # play-circle
+  - title                                 : Automatic Updates
+    description                           : Never miss a spoiled card, ban and restricted or errata update. All Scryfall updates are pushed to your device automatically when you open the app.
+    fontawesome_icon_name                 : sync
+    
+  - title                                 : Spoilers
+    description                           : Preview cards are pushed directly to your phone. See what has been spoiled every time you open the app.
+    fontawesome_icon_name                 : magic
 
   - title                                 : # Automatic Icon and Metadata
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.

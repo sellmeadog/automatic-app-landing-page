@@ -35,28 +35,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Scryfall Database
-    description                           : The complete Scryfall database, always up-to-date, is available locally on your device.
+    description                           : The complete Scryfall database, every card, every printing, is available locally on your device.
     fontawesome_icon_name                 : wizards-of-the-coast
 
   - title                                 : Automatic Updates
-    description                           : Never miss a spoiled card, ban and restricted or errata update. All Scryfall updates are pushed to your device automatically when you open the app.
+    description                           : Changes are pushed to you automatically. Never miss a new set, spoiled card, ban and restricted announcement or errata update.
     fontawesome_icon_name                 : sync
     
   - title                                 : Spoilers
-    description                           : Preview cards are pushed directly to your phone. See what has been spoiled every time you open the app.
+    description                           : Preview cards are pushed directly to your device. See what has been spoiled every time you open the app.
     fontawesome_icon_name                 : magic
 
-  - title                                 : # Automatic Icon and Metadata
-    description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : # sync
+  - title                                 : Deck Builder
+    description                           : Brew new deck ideas for every format. 5 decks included for free. Unlimited with Power 9+.
+    fontawesome_icon_name                 : tools
 
-  - title                                 : # Easy to Tweak
-    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # adjust
+  - title                                 : Gameplay Simulator
+    description                           : Test your decks, turn by turn. Supports London mulligan and provides easy movement of cards between zones to simulate play.
+    fontawesome_icon_name                 : flask
   
-  - title                                 : # Feature List
-    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # star
+  - title                                 : Privacy
+    description                           : Your data is yours. Every Power 9+ account comes with a dedicated and secure database to store your deck lists and other information.
+    fontawesome_icon_name                 : shield-alt
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.

@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Scryfall Database
     description                           : The complete Scryfall database, every card, every printing, available locally on your device.
-    fontawesome_icon_name                 : wizards-of-the-coast
+    fontawesome_icon_name                 : database
 
   - title                                 : Automatic Updates
     description                           : Changes are pushed to you automatically. Never miss a new set, spoiled card, ban and restricted announcement or errata update.

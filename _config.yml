@@ -6,7 +6,7 @@ ios_app_id                                : 1484009100                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : # https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Scryfall Database
-    description                           : The complete Scryfall database, every card, every printing, is available locally on your device.
+    description                           : The complete Scryfall database, every card, every printing, available locally on your device.
     fontawesome_icon_name                 : wizards-of-the-coast
 
   - title                                 : Automatic Updates
@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Deck Builder
-    description                           : Brew new deck ideas for every format. 5 decks included for free. Unlimited with Power 9+.
+    description                           : Brew new deck ideas for every format. 5 decks included for free. Unlimited with a Power 9+ subscription.
     fontawesome_icon_name                 : tools
 
   - title                                 : Gameplay Simulator

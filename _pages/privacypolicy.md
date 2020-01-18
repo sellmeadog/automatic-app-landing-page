@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: privacy
 title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
+<!-- **Last updated**  
 August 1 2019
 
 # Privacy Policy
@@ -57,4 +57,4 @@ Worm where gravely behind logically far in tastefully as alas delicately before 
 <br>
 
 ## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh. -->

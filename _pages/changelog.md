@@ -10,14 +10,17 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 <br>
 
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 0.18.6
+This is the first release of Power 9 on the App Store for iOS. 
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Complete Scryfall database stored locally on your device
+- Automatic database syncing direct to your device enabled with a free Power 9 account
+- Track spoilers directly in the app; new previews are pushed directly to your device
+- Complete deck builder for all formats; brew up to 5 decks for free, unlimted available with a Power 9+ subscription
+- Gameplay simulator to test how well your deck plays; supports the London mulligan and easy drag and dropping of cards between zones
 
-#### Bug Fixes
+<!-- #### Bug Fixes
 - Much far proper exotically precise unaccountable.
 - [Changes to Privacy Policy](/privacypolicy)
 
@@ -62,4 +65,4 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 - Improved user sign up experience.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
-<br>
+<br> -->

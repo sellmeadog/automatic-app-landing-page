@@ -10,7 +10,7 @@ Track what is changing with each release of Power 9. All new features and bug fi
 <br>
 
 ### `Latest`
-# **Version 0.18.6
+# Version 0.18.6
 This is the first release of Power 9 on the App Store for iOS. 
 
 #### What's New

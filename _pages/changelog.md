@@ -7,9 +7,25 @@ include_in_header: true
 # Changelog
 Track what is changing with each release of Power 9. All new features and bug fixes are documented here.
 
+### `Latest`
+
+# Version 0.18.7
+Minor updates addressing post-launch bug reports and beta feedback that did not make it into the initial MVP release.
+
+#### New Features
+- No new features. I am focusing on all the feedback I have received, both during the beta and post-launch, before I start any new feature development
+
+#### Bug Fixes
+- The Spoilers screen now provides messaging to anonymous users that a free account is required to enable database syncing. Prior to this update, anonymous users would have seen a blank screen.
+- Ads were added to the Spoiler screen. Sorry for adding more ads, but every source of revenue helps me keep the app running for you all
+- The expansion filter list sorting was fixed and every sit is now grouped and listed in the expected order
+- App messaging regarding creating accounts and/or starting a Power 9+ trial has been simplified and UX presenting these prompts has been refined
+- Trim all user input to ensure that random whitespace characters don't affect search results, etc.
+
 <br>
 
-### `Latest`
+### `Previous Versions`
+
 # Version 0.18.6
 This is the first release of Power 9 on the App Store for iOS. 
 

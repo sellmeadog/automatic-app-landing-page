@@ -9,6 +9,24 @@ Track what is changing with each release of Power 9. All new features and bug fi
 
 ### `Latest`
 
+# Version 0.19.0
+
+February 2020 update (sorry for being late) which includes the following:
+
+### New Features
+
+- Prioritized search results - cards whose name contains the search term will display before cards that contain the term in oracle text
+- Punctuation free searching - you can now search without having to remember apostrophes, hyphens or commas
+- Swipe through card details - from the card detail screen, you can now swipe left and right through the list; this works from the main card database, spoilers, and decklists
+
+### Bug Fixes
+
+- MTGO prices are available in the app again
+
+<br>
+
+### `Previous Versions`
+
 # Version 0.18.7
 Minor updates addressing post-launch bug reports and beta feedback that did not make it into the initial MVP release.
 
@@ -21,10 +39,6 @@ Minor updates addressing post-launch bug reports and beta feedback that did not 
 - The expansion filter list sorting was fixed and every sit is now grouped and listed in the expected order
 - App messaging regarding creating accounts and/or starting a Power 9+ trial has been simplified and UX presenting these prompts has been refined
 - Trim all user input to ensure that random whitespace characters don't affect search results, etc.
-
-<br>
-
-### `Previous Versions`
 
 # Version 0.18.6
 This is the first release of Power 9 on the App Store for iOS. 

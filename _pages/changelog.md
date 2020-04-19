@@ -9,6 +9,44 @@ Track what is changing with each release of Power 9. All new features and bug fi
 
 ### `Latest`
 
+# Version 0.20.0
+
+March 2020 update.
+
+> Development of this update was interrupted by both the COVID-19 pandemic as well as a required hotfix. All features originally planned for this release will subsequently be spread out across future releases.
+
+### Hotifx
+
+- Fixes the "blank page" bug introduced with Ikoria spoilers.
+
+### New Features
+
+- Condensed the decklist collection screen with a simplified list for easier browsing
+- Introduced a new decklist collection screen that now supports specifying your list's format
+  - This is in preparation for upcoming features like decklist import/export that will require format information; the value is still unused as of now
+- Improved messaging on screens that could be blank like the Spoilers screen outside of an active spoiler season
+
+### Bug Fixes
+
+- Added a workaround for all versions of a card not being accessible in search results (especially problematic when deck building):
+  - Using the "quick search" feature, i.e., the default search textbox, will still only return the most recent printing
+  - The advanced filter screen will now return all printings in results unless "Latest Printing" is selected
+  - Again, this is a workaround until a more elegant solution can be implemented
+- Fixed the momentum scroll issue on the card detail page allowing you to swipe through one card at a time to avoid missing cards in the list
+- Fixed an issue preventing ads from loading consistently required to help keep Power 9 available for free; if you prefer not to see ads, please consider upgrading to Power 9+
+  - This does not increase the number of ads displayed in the app, but the frequency at which they load and refresh
+  
+### Platform
+
+While these changes are not directly user facing, they do help improve the overall performance and stability of the application and for completeness will be listed in the changelog when applicable.
+
+- Upgraded React Native to 0.61.5 (from 0.57.10)
+- Upgraded all application dependencies to current versions
+
+<br>
+
+### `Previous Versions`
+
 # Version 0.19.0
 
 February 2020 update (sorry for being late) which includes the following:
@@ -22,10 +60,6 @@ February 2020 update (sorry for being late) which includes the following:
 ### Bug Fixes
 
 - MTGO prices are available in the app again
-
-<br>
-
-### `Previous Versions`
 
 # Version 0.18.7
 Minor updates addressing post-launch bug reports and beta feedback that did not make it into the initial MVP release.

@@ -9,11 +9,26 @@ Track what is changing with each release of Power 9. All new features and bug fi
 
 ### `Latest`
 
+# Version 0.20.1
+
+March 2020 update, patch 1.
+
+> Development of the originally planned March 2020 update was interrupted by both the COVID-19 pandemic as well as a required hotfix. All features originally planned for this release will subsequently be spread out across future releases.
+
+### New Features
+
+- You can now update your existing decklists with a format. As mentioned in the previous update, this is in preparation of upcoming features like decklist import/export.
+- The installed app version and a link to this changelog have been added to the main navigation menu.
+
+<br>
+
+### `Previous Versions`
+
 # Version 0.20.0
 
 March 2020 update.
 
-> Development of this update was interrupted by both the COVID-19 pandemic as well as a required hotfix. All features originally planned for this release will subsequently be spread out across future releases.
+> Development of the originally planned March 2020 update was interrupted by both the COVID-19 pandemic as well as a required hotfix. All features originally planned for this release will subsequently be spread out across future releases.
 
 ### Hotifx
 
@@ -42,10 +57,6 @@ While these changes are not directly user facing, they do help improve the overa
 
 - Upgraded React Native to 0.61.5 (from 0.57.10)
 - Upgraded all application dependencies to current versions
-
-<br>
-
-### `Previous Versions`
 
 # Version 0.19.0
 

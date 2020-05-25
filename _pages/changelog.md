@@ -9,6 +9,31 @@ Track what is changing with each release of Power 9. All new features and bug fi
 
 ### `Latest`
 
+# Version 0.21.3
+
+May 2020 update offers full support for deck list importing.
+
+### New Features
+
+* Import a deck list from a CSV file; [all formats documented here are supported](https://www.mtggoldfish.com/help/import_formats)
+* Import a deck list from a text (TXT) file
+* This relies on the standard iOS document picker; as such, Power 9 does not control document storage, organization, or exploration
+* You can import from the main deck list collection screen which will automatically navigate to the deck list editor when import is complete
+  - The deck list name will be set to the file name
+  - Format will always default to Standard
+* An import can also be started from the standard deck list create screen
+  - This will perform and in place update within the create deck list screen allowing you to subsequently change the deck name, format and the imported entries before officially creating the deck
+* Failure report if any entries from a file could not be parsed
+
+### Bug Fixes
+
+* Preceding or trailing whitespace characters will not change search results in the card database search results
+* In the advanced editor, you can now change the value of any text predicate
+
+<br>
+
+### `Previous Versions`
+
 # Version 0.20.1
 
 March 2020 update, patch 1.
@@ -19,10 +44,6 @@ March 2020 update, patch 1.
 
 - You can now update your existing decklists with a format. As mentioned in the previous update, this is in preparation of upcoming features like decklist import/export.
 - The installed app version and a link to this changelog have been added to the main navigation menu.
-
-<br>
-
-### `Previous Versions`
 
 # Version 0.20.0
 

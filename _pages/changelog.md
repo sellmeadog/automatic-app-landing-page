@@ -9,6 +9,23 @@ Track what is changing with each release of Power 9. All new features and bug fi
 
 ### `Latest`
 
+# Version 0.21.5
+
+June 2020 update provides a set of high priority bug fixes.
+
+### New Features
+
+* No new features
+
+### Bug Fixes
+
+* The app crash issue caused when changing the equality setting of an advanced filter, i.e, "greater than", "less than", etc. has been fixed
+* When changing the logical operator, i.e., "and", "or", "not" of an advanced filter, the value is no longer erased
+
+<br>
+
+### `Previous Versions`
+
 # Version 0.21.3
 
 May 2020 update offers full support for deck list importing.
@@ -29,10 +46,6 @@ May 2020 update offers full support for deck list importing.
 
 * Preceding or trailing whitespace characters will not change search results in the card database search results
 * In the advanced editor, you can now change the value of any text predicate
-
-<br>
-
-### `Previous Versions`
 
 # Version 0.20.1
 
